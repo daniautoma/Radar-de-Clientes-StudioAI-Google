@@ -1,0 +1,8 @@
+{
+  "name": "Radar de Clientes",
+  "description": "Herramienta de prospección comercial de servicios digitales para negocios locales en España con análisis web de PageSpeed, Places API y Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
